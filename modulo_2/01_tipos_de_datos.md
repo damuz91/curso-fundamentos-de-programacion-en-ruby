@@ -18,14 +18,27 @@ De la misma forma cada dato tiene un `tipo` esto se refiere a la categoría a la
 - Teléfono `número entero` (ó `texto`?)
 
 La lista de los principales tipos de datos son:
-- String
-- Integer
-- Decimal
-- Float
-- Boolean
+- Char (Caracter o alfanumérico)
+- String (Cadena de texto)
+- Integer (Número entero)
+- Decimal (Número decimal)
+- Boolean (Verdad o Falsedad)
 
 Más adelante veremos:
-- Date
-- DateTime
+- Date (Fecha)
+- DateTime (Fecha y Hora)
 - Array (Lista)
 - Hash (Diccionario)
+
+Ejemplos:
+
+| Tipo de dato |Nombre del dato| Ejemplo |
+|--|--|--|
+|String|Nombre|David Mauricio|
+|Char|Género|M|
+|Integer|Edad|30|
+|Boolean|Fallecido|Falso|
+|Decimal|Peso|80.5
+|Date|Fecha de nacimiento|20/01/200
+|DateTime|Fecha último login| 20/01/200 11:00:00 AM
+|Array|Hobbies|Leer, Correr, Películas

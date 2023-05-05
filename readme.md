@@ -1,6 +1,6 @@
 # Aprendiendo fundamentos de programación en Ruby 
 
-Este curso está dirigido a personas que quieran hacer un cambio de carrera hacia al desarrollo de software. El estudiante podrá aprender de conceptos y fundamentos de programación al tiempo que aprende el lenguaje Ruby, escencial para aprender el Framework de desarrollo web Ruby on Rails.
+Este curso está dirigido a personas que quieran hacer un cambio de carrera hacia al desarrollo de software. El estudiante podrá aprender conceptos y fundamentos de programación al tiempo que aprende el lenguaje Ruby, esencial para aprender el Framework de desarrollo web Ruby on Rails.
 
 ![Banner](https://estoyprogramando.co/wp-content/uploads/2023/04/Texto-del-parrafo-1-1-1.jpg)
 

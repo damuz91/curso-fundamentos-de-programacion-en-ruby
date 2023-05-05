@@ -1,4 +1,3 @@
-
 # Instalando Ruby en Windows
 
 Estos pasos describen como debes instalar Ruby en tu sistema operativo Windows. Puede ser Windows 7 o superior. 

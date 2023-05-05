@@ -1,4 +1,4 @@
-# Tipos de datos
+# Datos y Tipos de datos
 
 Los datos se refieren a la unidad mínima de información, por ejemplo:
 - Nombre

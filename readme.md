@@ -31,14 +31,14 @@ Este curso está dirigido a personas que quieran hacer un cambio de carrera haci
 - Instalando Visual Studio Code
 
 ## Módulo 2 - Tipos de datos y variables:
-- Tipos de datos
+- Datos y Tipos de datos
 - Qué es un String o cadena de caractares
 - Qué es un Integer o un valor numérico
 - Qué es un Boolean o un valor de verdad
 - Aritmética
 - Declarando variables
 - Manipulando variables
-- Transformaciones
+- Operaciones
 - Cómo imprimir en Ruby
 - Ejercicio
 

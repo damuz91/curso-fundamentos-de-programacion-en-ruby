@@ -2,18 +2,19 @@
 
 Este curso está dirigido a personas que quieran hacer un cambio de carrera hacia al desarrollo de software. El estudiante podrá aprender de conceptos y fundamentos de programación al tiempo que aprende el lenguaje Ruby, escencial para aprender el Framework de desarrollo web Ruby on Rails.
 
+![Banner](https://estoyprogramando.co/wp-content/uploads/2023/04/Texto-del-parrafo-1-1-1.jpg)
+
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtshJw-uPwhwo-f6450ftQA?label=Suscribirme&style=social)
 
 # Requisitos
 
-- Saber usar un computador, es decir:
-  - Instalar programas básicos
+- Tener conocimientos básicos de ofimática, es decir:
   - Navegar en internet
   - Hacer búsquedas en Google
   - Manipular archivos del disco duro
+  - Instalar programas básicos
+  - Descargar archivos de internet
 - Contar con una conexión estable a internet
-- Tener una cuenta en Github.com
-- Instalar Visual Studio Code
 
 # Contenido
 

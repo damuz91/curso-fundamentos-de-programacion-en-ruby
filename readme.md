@@ -58,7 +58,7 @@ Este curso está dirigido a personas que quieran hacer un cambio de carrera haci
 - Manipulando diccionarios
 - Ejercicio
 
-## Módulo 7 - Ciclos
+## Módulo 7 - Ciclos y bucles
 - While
 - For
 - Each
@@ -68,6 +68,7 @@ Este curso está dirigido a personas que quieran hacer un cambio de carrera haci
 - Clases
 - Objetos
 - Algoritmos
+- Excepciones
 
 ## Bonus 2 - Métodos avanzados para Arrays:
 - Map

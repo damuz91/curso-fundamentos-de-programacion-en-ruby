@@ -1,6 +1,8 @@
-# Aprendiendo fundamentos de programación en Ruby
+# Aprendiendo fundamentos de programación en Ruby 
 
 Este curso está dirigido a personas que quieran hacer un cambio de carrera hacia al desarrollo de software. El estudiante podrá aprender de conceptos y fundamentos de programación al tiempo que aprende el lenguaje Ruby, escencial para aprender el Framework de desarrollo web Ruby on Rails.
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtshJw-uPwhwo-f6450ftQA?label=Suscribirme&style=social)
 
 # Requisitos
 
@@ -59,13 +61,13 @@ Este curso está dirigido a personas que quieran hacer un cambio de carrera haci
 - For
 - Each
 
-## Bonus 1:
-- Programación orientada a objetos
+## Bonus 1 - Programación orientada a objetos
+- Presentación
 - Clases
 - Objetos
 - Algoritmos
 
-## Bonus 2
+## Bonus 2 - Métodos avanzados para Arrays:
 - Map
 - Select
 - Find
@@ -77,3 +79,8 @@ Este curso está dirigido a personas que quieran hacer un cambio de carrera haci
 El estudiante podrá profundizar en el lenguaje de programación Ruby mediante el curso completo de programación en Ruby en donde se cubre más a fondo los conceptos y diferentes métodos y características propias del lenguajde de programación y su estilo.
 
 Alternativamente, también podrá saltar al curso de programación web en Ruby on Rails, en donde se aprendará a crear aplicaciones web en el framework de programación Rails.
+
+
+# Más contenido de programación
+
+- Te invito a suscribirte en [mi canal de Youtube](https://www.youtube.com/@EstoyProgramando?sub_confirmation=1) donde publico constantemente más contenido gratuito acerca de programación y desarrollo de software.

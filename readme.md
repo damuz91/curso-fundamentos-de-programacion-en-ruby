@@ -45,16 +45,16 @@ Aprender programación puede parecer abrumador al principio, pero cualquier pers
 # Contenido
 
 ## Módulo 1 - Introducción:
-- Presentación personal
-- Introducción del curso
-- ¿Qué es Ruby?
-- ¿Por qué aprender Ruby?
-- ¿Qué es Ruby on Rails?
-- Instalación de Ruby:
+01. Presentación personal
+02. Introducción del curso
+03. ¿Qué es Ruby?
+04. ¿Por qué aprender Ruby?
+05. ¿Qué es Ruby on Rails?
+06. Instalación de Ruby:
     - En Windows
     - En Linux (Ubuntu)
     - En Mac
-- Instalando Visual Studio Code
+07. Instalando Visual Studio Code
 
 ## Módulo 2 - Tipos de datos y variables:
 01. Datos y Tipos de datos

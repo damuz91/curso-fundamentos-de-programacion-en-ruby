@@ -31,16 +31,16 @@ Este curso está dirigido a personas que quieran hacer un cambio de carrera haci
 - Instalando Visual Studio Code
 
 ## Módulo 2 - Tipos de datos y variables:
-- Datos y Tipos de datos
-- Qué es un String o cadena de caractares
-- Qué es un Integer o un valor numérico
-- Qué es un Boolean o un valor de verdad
-- Aritmética
-- Declarando variables
-- Manipulando variables
-- Operaciones
-- Cómo imprimir en Ruby
-- Ejercicio
+01. Datos y Tipos de datos
+02. Qué es un String o cadena de caractares
+03. Qué es un Integer o un valor numérico
+04. Qué es un Boolean o un valor de verdad
+05. Aritmética
+06. Declarando variables
+07. Manipulando variables
+08. Operaciones
+09. Cómo imprimir en Ruby
+10. Ejercicio
 
 ## Módulo 3 - Operadores y condicionales
 - Operadores aritméticos

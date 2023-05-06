@@ -14,15 +14,33 @@ Suscríbete a mi canal para más contenido de cómo iniciar en el mundo de la pr
 4. Rails: Ruby on Rails es un marco de desarrollo web popular que está construido sobre Ruby. Ruby on Rails facilita el desarrollo de aplicaciones web con características avanzadas, como autenticación de usuarios, seguridad, conectividad de bases de datos y mucho más. Si aprendes Ruby, también puedes aprender Ruby on Rails para crear aplicaciones web.
 5. Demanda en el mercado laboral: Ruby es un lenguaje de programación popular y en demanda en el mercado laboral, especialmente en áreas como el desarrollo web y la ciencia de datos. Aprender Ruby puede ayudarte a desarrollar habilidades valiosas y obtener oportunidades laborales emocionantes en el futuro.
 
-# Requisitos
+# Requisitos del estudiante
 
-- Tener conocimientos básicos de ofimática, es decir:
+Aprender programación puede parecer abrumador al principio, pero cualquier persona puede aprender a programar con el tiempo y la práctica. Aquí hay algunos requisitos que pueden ayudarte a tener éxito en tu viaje de aprendizaje de programación:
+
+- Mentalidad de resolución de problemas: La programación implica la resolución de problemas. Es importante tener una mentalidad de resolución de problemas y ser capaz de descomponer problemas complejos en tareas más pequeñas y manejables.
+
+- Comprensión básica de matemáticas: Si bien no necesitas ser un genio en matemáticas para aprender a programar, tener una comprensión básica de conceptos como álgebra y geometría puede ayudarte a entender mejor los conceptos de programación.
+
+- Paciencia y perseverancia: Aprender a programar lleva tiempo y esfuerzo. Es importante ser paciente y estar dispuesto a seguir practicando y aprendiendo, incluso cuando te enfrentes a desafíos y obstáculos.
+
+- Habilidades informáticas básicas: Es importante tener habilidades informáticas básicas, como saber cómo usar un sistema operativo, navegar por la web y crear y editar documentos.
+
+- Curiosidad y creatividad: La programación también puede ser una forma creativa de resolver problemas. Es importante tener curiosidad y estar dispuesto a experimentar y explorar nuevas ideas y soluciones.
+
+# Requisitos técnicos
+
+- Tener conocimientos básicos de manejo de computador, es decir:
   - Navegar en internet
+  - Crear, editar y eliminar archivos y carpetas del disco duro
   - Hacer búsquedas en Google
-  - Manipular archivos del disco duro
-  - Instalar programas básicos
   - Descargar archivos de internet
+  - Instalar programas básicos
 - Contar con una conexión estable a internet
+- Cualquiera de los siguientes sistemas operativos: 
+  - Windows 7 o superior. 
+  - Ubuntu 16 o superior. 
+  - MacOS.
 
 # Contenido
 

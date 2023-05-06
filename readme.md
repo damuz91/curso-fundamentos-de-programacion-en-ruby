@@ -38,8 +38,8 @@ Este curso está dirigido a personas que quieran hacer un cambio de carrera haci
 05. Aritmética
 06. Declarando variables
 07. Manipulando variables
-08. Operaciones
-09. Cómo imprimir en Ruby
+08. Cómo imprimir en Ruby
+09. Comentarios
 10. Ejercicio
 
 ## Módulo 3 - Operadores y condicionales

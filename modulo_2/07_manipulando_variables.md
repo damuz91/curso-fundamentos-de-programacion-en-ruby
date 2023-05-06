@@ -31,7 +31,10 @@ nombre_completo = nombre + " " + apellido # Pedro Perez
 - Para incrementar el valor de una variable numérica en 1, podemos utilizar el operador de incremento (++) o simplemente sumarle 1:
 
 ```ruby
-edad = 25
-edad += 1    # Equivalente a: edad = edad + 1
+edad = 30
+edad += 1         # Equivalente a: edad = edad + 1
+edad++            # Equivalente a: edad = edad + 1
+edad = edad + 1   # Equivalente a: edad = edad + 1
 ```
 
+De manera análoga se puede usar el operador de resta `-`

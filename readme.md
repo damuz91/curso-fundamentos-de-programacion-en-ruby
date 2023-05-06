@@ -4,7 +4,15 @@ Este curso está dirigido a personas que quieran hacer un cambio de carrera haci
 
 ![Banner](https://estoyprogramando.co/wp-content/uploads/2023/04/Texto-del-parrafo-1-1-1.jpg)
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtshJw-uPwhwo-f6450ftQA?label=Suscribirme&style=social)
+Suscríbete a mi canal para más contenido de cómo iniciar en el mundo de la programación, además de encontrar contenido específico de programación en Ruby. ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtshJw-uPwhwo-f6450ftQA?label=Suscribirme&style=social) 
+
+## ¿Por qué aprender a programar mediante el lenguaje de programación Ruby?
+
+1. El lenguaje es simple: Ruby tiene una sintaxis limpia y fácil de leer, lo que lo hace ideal para principiantes que recién comienzan a aprender a programar. Además, la sintaxis de Ruby se parece mucho al lenguaje natural, lo que facilita la comprensión del código.
+2. Amplia comunidad: Ruby cuenta con una comunidad activa y solidaria de desarrolladores y usuarios en todo el mundo. Esto significa que hay muchos recursos, tutoriales y bibliotecas disponibles en línea para ayudarte a aprender y desarrollar en Ruby.
+3. Potencia y flexibilidad: Ruby es un lenguaje de programación potente y flexible que se puede utilizar para una amplia variedad de tareas, desde scripting y automatización de tareas hasta desarrollo web y móvil. Además, Ruby es compatible con múltiples paradigmas de programación, lo que significa que puedes escribir código orientado a objetos, funcional o procedural según sea necesario.
+4. Rails: Ruby on Rails es un marco de desarrollo web popular que está construido sobre Ruby. Ruby on Rails facilita el desarrollo de aplicaciones web con características avanzadas, como autenticación de usuarios, seguridad, conectividad de bases de datos y mucho más. Si aprendes Ruby, también puedes aprender Ruby on Rails para crear aplicaciones web.
+5. Demanda en el mercado laboral: Ruby es un lenguaje de programación popular y en demanda en el mercado laboral, especialmente en áreas como el desarrollo web y la ciencia de datos. Aprender Ruby puede ayudarte a desarrollar habilidades valiosas y obtener oportunidades laborales emocionantes en el futuro.
 
 # Requisitos
 

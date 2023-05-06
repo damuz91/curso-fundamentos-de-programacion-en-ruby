@@ -52,12 +52,11 @@ Suscríbete a mi canal para más contenido de cómo iniciar en el mundo de la pr
 11. Ejercicios
 
 ## Módulo 3 - Operadores y condicionales
-- Operadores aritméticos
-- Operadores de comparacion
-- Comparación entre números
-- Operadores lógicos: and, or y not
-- Condicionales
-- Ejercicio de condicionales
+01. Operadores de comparacion
+02. Comparación entre números
+03. Operadores lógicos: and, or y not
+04. Condicionales
+05. Ejercicio de condicionales
 
 ## Módulo 4 - Estructuras de datos
 - Manipulando textos

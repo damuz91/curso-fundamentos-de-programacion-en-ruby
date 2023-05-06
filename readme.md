@@ -40,7 +40,8 @@ Este curso está dirigido a personas que quieran hacer un cambio de carrera haci
 07. Manipulando variables
 08. Cómo imprimir en Ruby
 09. Comentarios
-10. Ejercicio
+10. Consola de Ruby
+11. Ejercicios
 
 ## Módulo 3 - Operadores y condicionales
 - Operadores aritméticos

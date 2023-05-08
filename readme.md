@@ -84,7 +84,7 @@ Aprender programación puede parecer abrumador al principio, pero cualquier pers
 - Manipulando diccionarios
 - Ejercicio
 
-## Módulo 7 - Ciclos y bucles
+## Módulo 5 - Ciclos y bucles
 - While
 - For
 - Each

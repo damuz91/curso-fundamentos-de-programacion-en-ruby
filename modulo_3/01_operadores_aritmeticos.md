@@ -1,4 +1,4 @@
-# Aritmética en programación
+# Operadores aritméticos
 La aritmética en programación se realiza de manera similar a como se realiza en matemáticas, pero se utiliza un conjunto de reglas específicas y una sintaxis particular para cada lenguaje de programación.
 
 Los lenguajes de programación utilizan operadores aritméticos para realizar cálculos matemáticos. Los operadores aritméticos más comunes son:

@@ -14,9 +14,16 @@ Estos operadores se utilizan comúnmente en las estructuras de control de flujo,
 ```ruby
 a = 10
 b = 5
+c = 5
+a == b # Retorna false
+b == c # Retorna true
+a != b # Retorna true
+b != c # Retorna false
 a > b # Retorna true
 a < b # Retorna false
 a == b # Retorna false
+b >= c # Retorna true
+a <= b # Retorna false
 ```
 
-En este ejemplo, comparamos las variables `a` y `b` utilizando el operador `>`. Si `a` es mayor que `b`, el código imprimirá `true`. De lo contrario, imprimirá `false`.
+Podemos copiar y pegar todo este bloque de código en la consola de ruby `irb` para poder comprobar los valores de retorno de cada una de las comparaciones. También podemos ensayar declarando diferentes variables y valores y comparándolos entre ellos para poder experimentar y ver qué valor Booleano es retornado.

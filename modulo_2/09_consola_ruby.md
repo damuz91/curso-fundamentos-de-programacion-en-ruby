@@ -35,3 +35,13 @@ La consola de Ruby es una herramienta útil para probar y ejecutar código Ruby 
    En este ejemplo, declaramos dos variables `x` e `y` y realizamos la suma de `x` e `y`. Luego, imprimimos el resultado en la consola.
 
 5. Para salir de la consola de Ruby, simplemente escribe `exit`.
+
+Nota: Puedes usar el método `gets.chomp` para poder capturar datos entrados por el teclado del usuario desde la consola de Ruby. Es decir, si ingresas `dato = gets.chomp` en la consola de Ruby entonces la consola se detendrá esperando que el usuario digite un valor alfanumérico mediante el uso del teclado del computador. Una vez el usuario presione la tecla `Enter` el valor capturado será almacenado en la variable indicada, en este caso `dato`. Por ejemplo:
+
+Si escribo en la consola de Ruby (`irb`) la línea: `dato = gets.chomp` y luego digito `hola` y presiono la tecla `Enter` entonces en la variable `dato` se guardará el valor `"hola"`. Es importante notar que el método `gets.chomp` captura cadenas de caracteres (Es decir strings). Si quisiéramos convertir esto a un valor entero o flotante podríamos usar el método `.to_i` o `.to_f` respectivamente, por ejemplo:
+
+```
+peso = gets.chomp.to_f
+# Usuario presiona 80.5 y luego Enter
+puts peso # Imprime 80.5
+```

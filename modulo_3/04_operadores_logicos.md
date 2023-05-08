@@ -14,7 +14,13 @@ Estos operadores se utilizan con frecuencia en combinación con los condicionale
 
 Es importante comprender cómo funcionan los operadores lógicos para poder escribir código eficiente y legible, especialmente en situaciones en las que se deben evaluar múltiples condiciones al mismo tiempo.
 
-## Tabla de la verdad
+## Tabla de la verdad
+
+La tabla de verdad es una herramienta matemática que se utiliza en lógica y en programación para mostrar todas las posibles combinaciones de valores de entrada y salida de una expresión booleana.
+
+En la tabla de verdad, cada fila representa una combinación diferente de valores de entrada, y cada columna representa una variable de entrada o una operación lógica. El resultado de la operación se muestra en una columna final, que indica el resultado de la expresión para cada combinación de valores de entrada.
+
+La tabla de verdad es una herramienta útil para verificar la validez de expresiones booleanas y para determinar la equivalencia lógica entre diferentes expresiones. Además, es esencial para el diseño y la implementación de circuitos digitales y sistemas de control basados en lógica booleana.
 
 | A     | B     | A AND B | A OR B | NOT A |
 |-------|-------|---------|--------|-------|

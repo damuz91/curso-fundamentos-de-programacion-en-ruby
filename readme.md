@@ -98,9 +98,12 @@ Aprender programación puede parecer abrumador al principio, pero cualquier pers
 08. Manipulando Hash - Ejercicios
 
 ## Módulo 5 - Ciclos y bucles
-- While
-- For
-- Each
+01. While
+02. While - Ejercicios
+03. For
+04. For - Ejercicioos
+05. Each
+06. Each - Ejercicios
 
 ## Bonus 1 - Programación orientada a objetos
 - Presentación

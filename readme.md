@@ -70,19 +70,32 @@ Aprender programación puede parecer abrumador al principio, pero cualquier pers
 11. Ejercicios
 
 ## Módulo 3 - Operadores y condicionales
-01. Operadores de comparacion
-02. Comparación entre números
-03. Operadores lógicos: and, or y not
-04. Condicionales
-05. Ejercicio de condicionales
+01. Operadores de aritméticos
+02. Operadores de aritméticos - Ejercicios
+03. Operadores de comparación
+04. Operadores de comparación - Ejercicios
+05. Operadores de asignación
+06. Operadores de asignación - Ejercicios
+07. Operadores lógicos
+08. Operadores lógicos - Ejercicios
+09. Estructuras condicionales
+10. Estructuras condicionales - Ejercicios
+11. Anidamiento de estructuras condicionales
+12. Anidamiento de estructuras condicionales - Ejercicios
+13. Switch reemplaza IF
+14. Switch reemplaza IF - Ejercicios
+15. Operador ternario
+15. Operador ternario - Ejercicios
 
 ## Módulo 4 - Estructuras de datos
-- Manipulando textos
-- Vectores
-- Manipulando vectores
-- Diccionarios
-- Manipulando diccionarios
-- Ejercicio
+01. Manipulando textos
+02. Manipulando textos - Ejercicios
+03. Arrays
+04. Manipulando Arrays
+05. Manipulando Arrays - Ejercicios
+06. Hash
+07. Manipulando Hash
+08. Manipulando Hash - Ejercicios
 
 ## Módulo 5 - Ciclos y bucles
 - While

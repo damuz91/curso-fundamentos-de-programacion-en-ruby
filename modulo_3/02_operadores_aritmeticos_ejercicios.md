@@ -1,7 +1,56 @@
 # Operadores aritméticos - Ejercicios
 
-1. Realiza un programa que solicite al usuario ingresar dos números y muestre la suma de ambos.
-2. Escribe un programa que calcule el área de un rectángulo y muestre el resultado. El programa debe solicitar al usuario ingresar el ancho y la altura del rectángulo.
-3. Crea un programa que convierta grados Celsius a grados Fahrenheit. El programa debe solicitar al usuario ingresar la temperatura en grados Celsius y mostrar la temperatura equivalente en grados Fahrenheit.
-4. Escribe un programa que calcule el promedio de cuatro números ingresados por el usuario. El programa debe mostrar el resultado del cálculo.
-5. Crea un programa que calcule el costo total de una compra en una tienda. El programa debe solicitar al usuario ingresar el precio de cada artículo y la cantidad de cada artículo comprado. El programa debe mostrar el costo total de la compra.
+Ejercicio 1: Dados dos números, sumarlos y mostrar el resultado.
+
+```ruby
+num1 = 10
+num2 = 5
+resultado = num1 + num2
+puts "El resultado de la suma es #{resultado}"
+```
+
+Respuesta: El resultado de este código sería "El resultado de la suma es 15".
+
+Ejercicio 2: Dados dos números, restarlos y mostrar el resultado.
+
+```ruby
+num1 = 10
+num2 = 5
+resultado = num1 - num2
+puts "El resultado de la resta es #{resultado}"
+```
+
+Respuesta: El resultado de este código sería "El resultado de la resta es 5".
+
+Ejercicio 3: Dados dos números, multiplicarlos y mostrar el resultado.
+
+```ruby
+num1 = 10
+num2 = 5
+resultado = num1 * num2
+puts "El resultado de la multiplicación es #{resultado}"
+```
+
+Respuesta: El resultado de este código sería "El resultado de la multiplicación es 50".
+
+Ejercicio 4: Dados dos números, dividirlos y mostrar el resultado.
+
+```ruby
+num1 = 10
+num2 = 5
+resultado = num1 / num2
+puts "El resultado de la división es #{resultado}"
+```
+
+Respuesta: El resultado de este código sería "El resultado de la división es 2".
+
+Ejercicio 5: Dado un número, obtener el resto de su división por otro número y mostrar el resultado.
+
+```ruby
+num1 = 10
+num2 = 3
+resultado = num1 % num2
+puts "El resto de la división es #{resultado}"
+```
+
+Respuesta: El resultado de este código sería "El resto de la división es 1".

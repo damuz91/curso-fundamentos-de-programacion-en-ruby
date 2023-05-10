@@ -106,11 +106,13 @@ Aprender programación puede parecer abrumador al principio, pero cualquier pers
 06. Each - Ejercicios
 
 ## Bonus 1 - Programación orientada a objetos
-- Presentación
-- Clases
-- Objetos
-- Algoritmos
-- Excepciones
+01. Qué es Programación Orientada a Objetos? (Poo)
+02. Qué es una clase?
+03. Qué es un objeto?
+04. Métodos de clase y de instancia
+05. Excepciones
+06. Algoritmos y prueba de escritorio
+
 
 ## Bonus 2 - Métodos avanzados para Arrays:
 01. Map

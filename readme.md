@@ -113,11 +113,12 @@ Aprender programación puede parecer abrumador al principio, pero cualquier pers
 - Excepciones
 
 ## Bonus 2 - Métodos avanzados para Arrays:
-- Map
-- Select
-- Find
-- Reject
-- Flatten
+01. Map
+02. Select
+03. Find
+04. Reject
+05. Flatten
+06. Compact
 
 # Siguientes pasos
 
@@ -126,11 +127,11 @@ En este momento el estudiante podrá entrar a investigar qué area del desarroll
 - [Roadmap.sh](https://roadmap.sh/): Es una página la cual nos permite navegar mediante diferentes frentes de trabajo del desarrollo de software (Como frontend, backend, móvil, data, etc) y nos indicará cuál es la ruta de aprendizaje apropiada que debemos tomar
 - [Freecodecamp.org](https://www.freecodecamp.org/): Es una plataforma la cual nos permitirá aprender diferentes tecnologías en torno al desarrollo de software e incluso nos emite certificados de los cursos que ofrecen.
 - [W3Schools](https://www.w3schools.com/): Contiene documentación de referencia, tutoriales, ejercicios e incluso certificaciones de diferentes lenguajes y tecnologías de la web y otros. Es altamente recomendada porque tiene mucha documentación de referencia con buenos ejemplos de tecnologías básicas de la web como lo son: HTML, Javascript y CSS.
+- [SQL - TutorialsPoint](https://www.tutorialspoint.com/sql/index.htm): Aprender SQL y bases de datos puede parecer complicado pero es sencillo una vez que se tienen nociones básicas de variables, tipos de datos, estructuras de datos y algoritmos. La alternativa a aprender SQL es aprender NOSQL.
 
 El estudiante podrá profundizar en el lenguaje de programación Ruby mediante el curso completo de programación en Ruby en donde se cubre más a fondo los conceptos y diferentes métodos y características propias del lenguajde de programación y su estilo.
 
 Alternativamente, también podrá saltar al curso de programación web en Ruby on Rails, en donde se aprendará a crear aplicaciones web en el framework de programación Rails.
-
 
 # Más contenido de programación
 

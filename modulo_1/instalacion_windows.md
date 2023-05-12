@@ -8,7 +8,7 @@ Antes que nada debes conocer que arquitectura tiene tu sistema operativo. Si no 
 ## Pasos
 1. Si tu máquina no cuenta ya con Ruby debes ir a la página oficial del [RubyInstaller](https://rubyinstaller.org/downloads/) y descargar el instalador apropiado según la arquitectura de tu sistema operativo. Puede ser de 32 o de 64 bits. En esta página debes seleccionar el instalador bajo la categoría **WITH DEVKIT** . Selecciona **x64** si tu arquitectura es de 64 bits o **x86** si tu arquitectura es de 32 bits. Por ejemplo:
 
-> En mi caso debo seleccionar Ruby+Devkit 3.2.2-1 (x64)
+> En mi caso debo seleccionar: Ruby+Devkit 3.2.2-1 (x64)
 
 2. Una vez descargado ve al explorador de archivos y busca el archivo que has descargado y con doble click ejecutas el instalador. Sigue los pasos con las opciones por defecto hasta que finalice la instalación.
 3. [Debes abrir el símbolo del sistema](https://www.youtube.com/watch?v=HABOlpDAqJs). Para esto haz click en Inicio -> Todas las aplicaciones -> Accesorios -> Símbolo del sistema, o solo busca `Símbolo del sistema` en la búsqueda de aplicaciones. Esto abre un programa con una ventana negra en donde puedes escribir algunos comandos:

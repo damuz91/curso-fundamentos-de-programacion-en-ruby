@@ -105,22 +105,21 @@ Aprender programación puede parecer abrumador al principio, pero cualquier pers
 05. Each
 06. Each - Ejercicios
 
-## Bonus 1 - Programación orientada a objetos
-01. Qué es Programación Orientada a Objetos? (Poo)
-02. Qué es una clase?
-03. Qué es un objeto?
-04. Métodos de clase y de instancia
-05. Excepciones
-06. Algoritmos y prueba de escritorio
-
-
-## Bonus 2 - Métodos avanzados para Arrays:
+## Bonus 1 - Métodos avanzados para Arrays:
 01. Map
 02. Select
 03. Find
 04. Reject
 05. Flatten
 06. Compact
+
+## Bonus 2 - Programación orientada a objetos
+01. Qué es Programación Orientada a Objetos? (Poo)
+02. Qué es una clase?
+03. Qué es un objeto?
+04. Métodos de clase y de instancia
+05. Excepciones
+06. Algoritmos y prueba de escritorio
 
 # Siguientes pasos
 
